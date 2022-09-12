@@ -1,0 +1,12 @@
+C:\Desc\CheckoutKata\Kata.Checkout.Logic\bin\Debug\net6.0\Kata.Checkout.Logic.deps.json
+C:\Desc\CheckoutKata\Kata.Checkout.Logic\bin\Debug\net6.0\Kata.Checkout.Logic.dll
+C:\Desc\CheckoutKata\Kata.Checkout.Logic\bin\Debug\net6.0\Kata.Checkout.Logic.pdb
+C:\Desc\CheckoutKata\Kata.Checkout.Logic\obj\Debug\net6.0\Kata.Checkout.Logic.csproj.AssemblyReference.cache
+C:\Desc\CheckoutKata\Kata.Checkout.Logic\obj\Debug\net6.0\Kata.Checkout.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desc\CheckoutKata\Kata.Checkout.Logic\obj\Debug\net6.0\Kata.Checkout.Logic.AssemblyInfoInputs.cache
+C:\Desc\CheckoutKata\Kata.Checkout.Logic\obj\Debug\net6.0\Kata.Checkout.Logic.AssemblyInfo.cs
+C:\Desc\CheckoutKata\Kata.Checkout.Logic\obj\Debug\net6.0\Kata.Checkout.Logic.csproj.CoreCompileInputs.cache
+C:\Desc\CheckoutKata\Kata.Checkout.Logic\obj\Debug\net6.0\Kata.Checkout.Logic.dll
+C:\Desc\CheckoutKata\Kata.Checkout.Logic\obj\Debug\net6.0\refint\Kata.Checkout.Logic.dll
+C:\Desc\CheckoutKata\Kata.Checkout.Logic\obj\Debug\net6.0\Kata.Checkout.Logic.pdb
+C:\Desc\CheckoutKata\Kata.Checkout.Logic\obj\Debug\net6.0\ref\Kata.Checkout.Logic.dll
